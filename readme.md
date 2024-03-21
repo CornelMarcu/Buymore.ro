@@ -4,7 +4,7 @@
 | ------------- | ------------- | ---------------- |--------------|
 | 10.03.2023    | Test Plan v02 | Cornel           |versiunea 1.1 |
 
-1. Introdution
+## 1. Introdution
 OpenCart, a free open-source e-commerce platform, caters to online merchants by offering a robust and dependable framework for establishing thriving digital stores.
 This framework is embraced by diverse users, including experienced web developers seeking a user-friendly interface and newcomers venturing into online business for the first time.
 OpenCart boasts an array of features that empower you to customize your store extensively, enabling you to unlock its full potential with the aid of its tools.
