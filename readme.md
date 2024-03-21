@@ -11,7 +11,9 @@ OpenCart boasts an array of features that empower you to customize your store ex
 
 ### 1.1. Project Objective
 Before releasing the project to customers, it's crucial to elevate trust in its quality to the highest level achievable.
+
 Application being tested: https://demo.opencart.com/admin/
+
 Documentation: https://docs.opencart.com/en-gb/administration/
 
 ### 1.2. Functionalities in scope
