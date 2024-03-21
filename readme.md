@@ -25,7 +25,7 @@ Automation testing is beyond scope.
 All features that are not under Admin Module.
 
 ## 2. Test process
-## 2.1. Test planning
+### 2.1. Test planning
 ###2.1.1. Roles and responsibilities
 | Name | Testing Scope|
 |------|---------------|
