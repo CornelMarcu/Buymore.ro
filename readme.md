@@ -27,11 +27,10 @@ All features that are not under Admin Module.
 ## 2. Test process
 ## 2.1. Test planning
 ###2.1.1. Roles and responsibilities
-| Date | Name | Testing Scope|
-|------|------|---------------|
-| 10.03.2023    |Marcu Cornel - QA Junior |Will test : User Management, Dashboard, Catalog |
+| Name | Testing Scope|
+|------|---------------|
+|Marcu Cornel - QA Junior |Will test : User Management, Dashboard, Catalog |
 
-QA Senior	will test: Design, Sales, Customers, Marketing
 ### 2.1.2. Entry criteria
 Smoke test passed (being the most basic type of test, this is a very important entry criteria in the process of testing);
 Testing environment is up and running;
