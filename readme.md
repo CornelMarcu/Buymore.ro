@@ -85,7 +85,7 @@ Link to Stories: link
 Link to Tasks: link
 
 ### 3.3. Test cases
-Link to test cases: link
+Link to test cases: ( https://github.com/CornelMarcu/Test/blob/main/MRCCRNL-4%203.3.pdf );
 
 ### 3.4. Daily/Weekly/Monthly test summary report
 Link to daily test summary report (number of tests ran today, % of them failed, passed, re-test, etc.): link monthlysummary monthlysummary
