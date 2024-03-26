@@ -88,7 +88,7 @@ Link to Tasks: link
 Link to test cases: ( https://github.com/CornelMarcu/Test/blob/main/MRCCRNL-4%203.3.pdf );
 
 ### 3.4. Daily/Weekly/Monthly test summary report
-Link to daily test summary report (number of tests ran today, % of them failed, passed, re-test, etc.): link monthlysummary monthlysummary
+( https://github.com/CornelMarcu/Test/blob/main/3.4.PNG )
 
 ### 3.5. Traceability matrix
 Link to Traceability Matrix: link
