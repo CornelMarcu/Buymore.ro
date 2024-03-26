@@ -72,3 +72,37 @@ There are no critical issues in an open status;
 ## 2.7 Test monitoring and control
 Status reports will be generated to indicate the current status of the testing process;
 If significant issues arise, appropriate control measures will be implemented;
+
+
+## 3.Test deliveries
+### 3.1. Test plan
+Link to Test Plan: link
+
+### 3.2. Test conditions
+The test conditions will be created based on the business requirements validated in the test analysis phase and will represent the features to be tested and transformed into test cases.
+Link to Epic: link
+Link to Stories: link
+Link to Tasks: link
+
+### 3.3. Test cases
+Link to test cases: link
+
+### 3.4. Daily/Weekly/Monthly test summary report
+Link to daily test summary report (number of tests ran today, % of them failed, passed, re-test, etc.): link monthlysummary monthlysummary
+
+### 3.5. Traceability matrix
+Link to Traceability Matrix: link
+
+### 3.6. Test case results
+Link to Test case results: link
+
+### 3.7. Bugs report
+Link to Bugs report: link
+
+### 3.8. Test completion report
+Completionreport
+
+### 3.9. Schedule
+We will have 10 days of testing;
+We have 30 test cases;
+In order to finish the test run, we would need to run around 3 test per day.
