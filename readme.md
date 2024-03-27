@@ -94,7 +94,7 @@ Link to test cases: ( https://github.com/CornelMarcu/Test/blob/main/MRCCRNL-4%20
 Link to Traceability Matrix: link
 
 ### 3.6. Test case results
-Link to Test case results: link
+Link to Test case results: (https://github.com/CornelMarcu/Test/blob/main/MRCCRNL-56_%203.6.pdf);
 
 ### 3.7. Bugs report
 Link to Bugs report: link
