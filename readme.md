@@ -97,7 +97,7 @@ Link to Traceability Matrix: link
 Link to Test case results: (https://github.com/CornelMarcu/Test/blob/main/MRCCRNL-56_%203.6.pdf);
 
 ### 3.7. Bugs report
-Link to Bugs report: link
+Link to Bugs report: (https://github.com/CornelMarcu/Test/blob/main/MRCCRNL-3.7%20merged.pdf);
 
 ### 3.8. Test completion report
 Completionreport
