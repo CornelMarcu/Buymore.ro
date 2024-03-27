@@ -101,6 +101,7 @@ Link to Bugs report: (https://github.com/CornelMarcu/Test/blob/main/MRCCRNL-3.7%
 
 ### 3.8. Test completion report
 Completionreport
+(https://github.com/CornelMarcu/Test/blob/main/3.8.PNG);
 
 ### 3.9. Schedule
 We will have 10 days of testing;
