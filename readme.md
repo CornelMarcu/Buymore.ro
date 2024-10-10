@@ -1,30 +1,30 @@
-# OpenCart
+# BuyMore
 ## Revision History
 | Date          | Description   | Author           | Comments     |
 | ------------- | ------------- | ---------------- |--------------|
-| 10.03.2023    | Test Plan v02 | Cornel           |versiunea 1.1 |
+| 01.10.2024    | Test Plan v1  | Cornel Marcu     |versiunea 1.1 |
 
 ## 1. Introdution
-OpenCart, a free open-source e-commerce platform, caters to online merchants by offering a robust and dependable framework for establishing thriving digital stores.
-This framework is embraced by diverse users, including experienced web developers seeking a user-friendly interface and newcomers venturing into online business for the first time.
-OpenCart boasts an array of features that empower you to customize your store extensively, enabling you to unlock its full potential with the aid of its tools.
+Buy More. Ro is an online store for Romanians, with delivery exclusively on the territory of Romania. Since its establishment – 2017, our team aims to come in front of customers with the best quality-price ratio for the products sold. We carefully choose the products listed on Acasa and maintain the quality of the products, constantly diversifying the range of products.
 
+So far, we have managed to cover an important segment of the market: basic clothing. With the help of our customers, we have identified the biggest needs in the niche and adapted so that we can also offer quality experiences, not just quality products at fair prices. We identified the biggest fear of customers in this niche: the fear of not choosing the right size. Thus, on Acasa you benefit from free, simple and fast returns. The free return is also a guarantee for the quality of the products.
+
+Also, by actively listening to the needs of customers, we have discovered that more and more
 ### 1.1. Project Objective
 Before releasing the project to customers, it's crucial to elevate trust in its quality to the highest level achievable.
 
-Application being tested: https://demo.opencart.com/admin/
+Application being tested: https://buymore.ro/
 
-Documentation: https://docs.opencart.com/en-gb/administration/
+Documentation: https://buymore.ro/despre-noi/
 
 ### 1.2. Functionalities in scope
-All features, functionalities, and capabilities outlined in the OpenCart business requirements for the Admin Module will be subject testing across various types, including functional testing, system testing, acceptance testing, component testing, and compatibility testing.
-The OpenCart application will be tested on latest versions of Microsoft Edge, Chrome and IE browsers.
+All features, functionalities, and capabilities outlined in the BuyMore business requirements for the customer's point of view will be subject testing across various types, including functional testing, system testing, acceptance testing, component testing, and compatibility testing.
+The BuyMore application will be tested on latest versions of Google Chrome. 
 
 ### 1.3 Functionalities and tests out of scope
 Non-functional testing such as stress, performance, security and maintenance falls outside the scope of this project.
 No QA support for mobile applications developed. Only web applications will be tested.
 Automation testing is beyond scope.
-All features that are not under Admin Module.
 
 ## 2. Test process
 ### 2.1. Test planning
@@ -76,7 +76,7 @@ If significant issues arise, appropriate control measures will be implemented;
 
 ## 3.Test deliveries
 ### 3.1. Test plan
-Link to Test Plan: ( https://github.com/CornelMarcu/Test/blob/main/TestPlanOpenCart.pdf );
+Link to Test Plan: 
 
 ### 3.2. Test conditions
 The test conditions will be created based on the business requirements validated in the test analysis phase and will represent the features to be tested and transformed into test cases.
@@ -85,23 +85,23 @@ Link to Stories: link
 Link to Tasks: link
 
 ### 3.3. Test cases
-Link to test cases: ( https://github.com/CornelMarcu/Test/blob/main/MRCCRNL-4%203.3.pdf );
+Link to test cases: 
 
 ### 3.4. Daily/Weekly/Monthly test summary report
-( https://github.com/CornelMarcu/Test/blob/main/3.4.PNG )
+
 
 ### 3.5. Traceability matrix
 Link to Traceability Matrix: link
 
 ### 3.6. Test case results
-Link to Test case results: (https://github.com/CornelMarcu/Test/blob/main/MRCCRNL-56_%203.6.pdf);
+Link to Test case results: 
 
 ### 3.7. Bugs report
-Link to Bugs report: (https://github.com/CornelMarcu/Test/blob/main/MRCCRNL-3.7%20merged.pdf);
+Link to Bugs report: 
 
 ### 3.8. Test completion report
 Completionreport
-(https://github.com/CornelMarcu/Test/blob/main/3.8.PNG);
+
 
 ### 3.9. Schedule
 We will have 10 days of testing;
