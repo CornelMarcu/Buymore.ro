@@ -140,22 +140,22 @@ The test conditions will be created based on the business requirements validated
 [Test cases](https://github.com/CornelMarcu/Test/blob/main/3.3%20Test%20steps.pdf) 
 
 ### 3.4. Daily/Weekly/Monthly test summary report
-
+[Daily report](https://github.com/CornelMarcu/Test/blob/main/3.4%20Daily%20report.png)
 
 ### 3.5. Traceability matrix
-Link to Traceability Matrix: link
+[Traceability Matrix](https://github.com/CornelMarcu/Test/blob/main/3.5%20Traceability%20Matrix.png)
 
 ### 3.6. Test case results
-Link to Test case results: 
+[Test case results] (https://github.com/CornelMarcu/Test/blob/main/3.6%20Test%20result.pdf)
 
 ### 3.7. Bugs report
-Link to Bugs report: 
+[Bugs report](https://github.com/CornelMarcu/Test/blob/main/3.7%20Bug%20report.pdf)
 
 ### 3.8. Test completion report
-Completionreport
+[Completionreport](https://github.com/CornelMarcu/Test/blob/main/3.8%20%20raport.png)
 
 
 ### 3.9. Schedule
 We will have 10 days of testing;
-We have 30 test cases;
-In order to finish the test run, we would need to run around 3 test per day.
+We have 20 test cases;
+In order to finish the test run, we would need to run around 2 test per day.
