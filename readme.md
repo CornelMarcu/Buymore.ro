@@ -3,6 +3,28 @@
 | Date          | Description   | Author           | Comments     |
 | ------------- | ------------- | ---------------- |--------------|
 | 01.10.2024    | Test Plan v1  | Cornel Marcu     |versiunea 1.1 |
+Introduction
+Project objective
+Functionalities in scope
+Functionalities and tests out of scope
+Test process
+Test planning
+Test analysis
+Test design
+Test implementation
+Test execution
+Test closure
+Test monitoring and control
+Test deliverables
+Test plan
+Test conditions
+Test cases
+Daily test summary reports
+Traceability matrix
+Test case results
+Bugs report
+Test completion report
+
 
 ## 1. Introdution
 Buy More. Ro is an online store for Romanians, with delivery exclusively on the territory of Romania. Since its establishment – 2017, our team aims to come in front of customers with the best quality-price ratio for the products sold. We carefully choose the products listed on Acasa and maintain the quality of the products, constantly diversifying the range of products.
