@@ -137,7 +137,7 @@ The test conditions will be created based on the business requirements validated
 
 
 ### 3.3. Test cases
-Link to test cases: 
+[](https://github.com/CornelMarcu/Test/blob/main/3.3%20Test%20steps.pdf) 
 
 ### 3.4. Daily/Weekly/Monthly test summary report
 
