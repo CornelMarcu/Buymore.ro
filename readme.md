@@ -43,7 +43,7 @@ Functional business specifications are defined;
 90% of tests are passed;
 No Critical defects have Open status;
 User Add functionality tests are 100% passed;
-Exploratory testing was performed on Admin module;
+Exploratory testing was performed on user atribute;
 ### 2.1.4. Risks
 Stability risks (crashes, disconnects, etc.);
 IE browser might have performance issues;
