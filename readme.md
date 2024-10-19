@@ -28,7 +28,7 @@
 
 2.7 Test monitoring and control
 
-4. Test deliverables
+3. Test deliverables
    
 3.1 Test plan
 
