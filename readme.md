@@ -31,7 +31,7 @@ Automation testing is beyond scope.
 ###2.1.1. Roles and responsibilities
 | Name | Testing Scope|
 |------|---------------|
-|Marcu Cornel - QA Junior |Will test : User Management, Dashboard, Catalog |
+|Marcu Cornel - QA Junior |Will test : User Interface, login function, Catalog |
 
 ### 2.1.2. Entry criteria
 Smoke test passed (being the most basic type of test, this is a very important entry criteria in the process of testing);
