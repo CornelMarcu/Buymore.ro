@@ -142,7 +142,7 @@ The test conditions will be created based on the business requirements validated
 [Daily report](https://github.com/CornelMarcu/Test/blob/main/3.4%20Daily%20report.png)
 
 ### 3.5. Traceability matrix
-[Traceability Matrix](https://github.com/CornelMarcu/Test/blob/main/3.5%20Traceability%20Matrix.png)
+[Traceability Matrix](https://github.com/CornelMarcu/Buymore.ro/blob/main/TRACEABILITY%20MATRIX.png)
 
 ### 3.6. Test case results
 [Test case results](https://github.com/CornelMarcu/Test/blob/main/3.6%20Test%20result.pdf)
