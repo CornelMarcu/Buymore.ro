@@ -145,13 +145,13 @@ The test conditions will be created based on the business requirements validated
 [Traceability Matrix](https://github.com/CornelMarcu/Test/blob/main/3.5%20Traceability%20Matrix.png)
 
 ### 3.6. Test case results
-[Test case results] (https://github.com/CornelMarcu/Test/blob/main/3.6%20Test%20result.pdf)
+[Test case results](https://github.com/CornelMarcu/Test/blob/main/3.6%20Test%20result.pdf)
 
 ### 3.7. Bugs report
 [Bugs report](https://github.com/CornelMarcu/Test/blob/main/3.7%20Bug%20report.pdf)
 
 ### 3.8. Test completion report
-[Completionreport](https://github.com/CornelMarcu/Test/blob/main/3.8%20%20raport.png)
+[Completion report](https://github.com/CornelMarcu/Test/blob/main/3.8%20%20raport.png)
 
 
 ### 3.9. Schedule
