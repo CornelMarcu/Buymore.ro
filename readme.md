@@ -122,13 +122,13 @@ If significant issues arise, appropriate control measures will be implemented;
 
 ### 3.2. Test conditions
 The test conditions will be created based on the business requirements validated in the test analysis phase and will represent the features to be tested and transformed into test cases.
-[Epic](https://github.com/CornelMarcu/Test/blob/main/Epic.png)
+[Epic file](https://github.com/CornelMarcu/Test/blob/main/Epic.png)
 
 [Stories]1.(https://github.com/CornelMarcu/Test/blob/main/Story-user%20interface.png)
 
 [Stories]2.(https://github.com/CornelMarcu/Test/blob/main/story-ordering.png)
 
-[Tasks]1.(https://github.com/CornelMarcu/Test/blob/main/t1.png)
+[Tasks1.](https://github.com/CornelMarcu/Test/blob/main/t1.png)
 
 [Tasks]2.(https://github.com/CornelMarcu/Test/blob/main/t2.png)
 
