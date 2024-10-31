@@ -151,7 +151,7 @@ The test conditions will be created based on the business requirements validated
 [Bugs report](https://github.com/CornelMarcu/Test/blob/main/3.7%20Bug%20report.pdf)
 
 ### 3.8. Test completion report
-[Completion report](https://github.com/CornelMarcu/Test/blob/main/3.8%20%20raport.png)
+[Completion report](https://github.com/CornelMarcu/Buymore.ro/blob/main/Test%20execution-final.png)
 
 
 ### 3.9. Schedule
