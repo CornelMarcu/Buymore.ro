@@ -77,7 +77,6 @@ Automation testing is beyond scope.
 |Marcu Cornel - QA Junior |Will test : User Interface, login function, Catalog |
 
 ### 2.1.2. Entry criteria
-Smoke test passed (being the most basic type of test, this is a very important entry criteria in the process of testing);
 Testing environment is up and running;
 Roles and responsibilities for the project are allocated;
 Functional business specifications are defined;
