@@ -4,6 +4,8 @@
 | ------------- | ------------- | ---------------- |--------------|
 | 01.10.2024    | Test Plan v1  | Cornel Marcu     |versiunea 1.1 |
 
+## Table of Content:
+
 1. [Introduction](#introduction)
 
 1.1 Project objective
