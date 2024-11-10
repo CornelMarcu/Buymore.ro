@@ -94,7 +94,7 @@ Automation testing is beyond scope.
    * Exploratory testing was performed on user atribute;
 
 ### 2.1.4. Risks
-#### Priject Risks:
+#### Project Risks:
    * The risk of team members committing human errors at various stages of the project, including testing activities.
    * The risk that one or more team members may become unavailable, thus affecting the progress of the project.
    * Uncertainty or lack of communication following testing or the review process, leading to delays or misunderstandings of identified issues.
