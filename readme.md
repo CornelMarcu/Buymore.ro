@@ -81,15 +81,23 @@ Automation testing is beyond scope.
 |Marcu Cornel - QA Junior |Will test : User Interface, login function, Catalog |
 
 ### 2.1.2. Entry criteria
-Testing environment is up and running;
+
 Roles and responsibilities for the project are allocated;
+
 Functional business specifications are defined;
+
 ### 2.1.3. Exit criteria
+
 100% of tests are executed;
+
 90% of tests are passed;
+
 No Critical defects have Open status;
+
 User Add functionality tests are 100% passed;
+
 Exploratory testing was performed on user atribute;
+
 ### 2.1.4. Risks
 Stability risks (crashes, disconnects, etc.);
 IE browser might have performance issues;
