@@ -68,7 +68,6 @@ The BuyMore application will be tested on latest versions of Google Chrome.
 
 ### 1.3 Functionalities and tests out of scope
    * Non-functional testing such as stress, performance, security and maintenance falls outside the scope of this project.
-
    * No QA support for mobile applications developed. Only web applications will be tested.
 
 Automation testing is beyond scope.
@@ -88,22 +87,24 @@ Automation testing is beyond scope.
 
 ### 2.1.3. Exit criteria
 
-100% of tests are executed;
-
-90% of tests are passed;
-
-No Critical defects have Open status;
-
-User Add functionality tests are 100% passed;
-
-Exploratory testing was performed on user atribute;
+   * 100% of tests are executed;
+   * 90% of tests are passed;
+   * No Critical defects have Open status;
+   * User Add functionality tests are 100% passed;
+   * Exploratory testing was performed on user atribute;
 
 ### 2.1.4. Risks
-Stability risks (crashes, disconnects, etc.);
-IE browser might have performance issues;
-The web page pagination could be impacted when opened on mobile devices;
-Stress conditions might impact the web application;
-New browser might not be supported;
+## Priject Risks:
+   * The risk of team members committing human errors at various stages of the project, including testing activities.
+   * The risk that one or more team members may become unavailable, thus affecting the progress of the project.
+   * Uncertainty or lack of communication following testing or the review process, leading to delays or misunderstandings of identified issues.
+
+## Product Risks:
+   * Stability risks (crashes, disconnects, etc.);
+   * IE browser might have performance issues;
+   * The web page pagination could be impacted when opened on mobile devices;
+   * Stress conditions might impact the web application;
+   * New browser might not be supported;
 ## 2.2 Test Analysis
 Examine the business requirements thoroughly to ensure that all necessary details are gathered for formulating the test conditions;
 Write test conditions (What?);
