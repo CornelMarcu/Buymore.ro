@@ -106,28 +106,39 @@ Automation testing is beyond scope.
    * Stress conditions might impact the web application;
    * New browser might not be supported;
 ## 2.2 Test Analysis
-Examine the business requirements thoroughly to ensure that all necessary details are gathered for formulating the test conditions;
-Write test conditions (What?);
-We intend to complete a full regression test on the current version;
-## 2.3 Test design
-All the test cases (How?) are written and reviewed;
-All test cases are generated within Jira, serving as our Test Management Tool;
-## 2.4 Test implementation
-All the test data is available and reviewed (Test data=email examples, password examples, employee, user with admin role);
-This test run exclusively focuses on regression testing, wherein we will prioritize tests of the highest importance as our primary objective;
-Create the test suites (Cycle Summary) (Grouped by release version or testing type);
-## 2.5 Test execution
-The tests will be executed on the latest versions of browsers: Chrome, Microsoft Edge, IE. If time permits, we will expand the testing scope to include other browsers;
-Bugs (Defects) will be created based on the failed test cases;
-The full regression testing will be done after new application changes;
-Retesting will occur following the resolution of any identified bugs;
-## 2.6. Test closure
-At least 90% of tests are passed;
-There are no critical issues in an open status;
-## 2.7 Test monitoring and control
-Status reports will be generated to indicate the current status of the testing process;
-If significant issues arise, appropriate control measures will be implemented;
+   * Examine the business requirements thoroughly to ensure that all necessary details are gathered for formulating the test conditions;
+   * Identify the functional requirements for each functionality, including what data can be modified, what data can be deleted, and what new customer data can be added.
 
+## 2.3 Test design
+   * All test cases are written and then examined.
+   * Jira will be used as the test management tool.
+   * Zephyr squad will be used as a plugin for Jira.
+## 2.4 Test implementation
+   * All the test data is available and reviewed (Test data=email examples, password examples, employee, user with admin role);
+   * Testing environment is up and running.
+   * Cycle summary was created.
+   * Test cases were added to the cycle summary.
+   * In the implementation phase, tests are created and prepared for execution. However, regression testing, focusing on high-priority tests, will be conducted in later stages as part of the overall testing process.
+
+## 2.5 Test execution
+   * The tests will be executed on the latest versions of browsers: Chrome. If time permits, we will expand the testing scope to include other browsers;
+   * Bugs (Defects) will be created based on the failed test cases;
+   * Retesting will be done after a bug is fixed.
+   * The full regression testing will be done after new application changes;
+   
+## 2.6. Test closure
+   * At least 90% of tests are passed;
+   * There are no critical issues in an open status;
+     
+## 2.7 Test monitoring and control
+
+   * Various periodic reports will be generated to reflect the current status of the testing process.
+   * Offering feedback to the QA team and other stakeholders regarding the progress.
+   * All test cases are written and reviewd.
+   * If significant issues arise, appropriate control measures will be implemented;
+   * Prioritize testing efforts in a different way.
+   * Restructure the test environment.
+   * Reprioritize the test case and conditions.
 
 ## 3.Test deliveries
 ### 3.1. Test plan
