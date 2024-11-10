@@ -31,22 +31,22 @@
    2.7 Test monitoring and control
 
 4. Test deliverables
-   
-   3.1 Test plan
 
-   3.2 Test conditions
+   3.1 Test conditions
 
-   3.3 Test cases
+   3.2 Test cases
 
-   3.4 Daily test summary reports
+   3.3 Daily test summary reports
 
-   3.5 Traceability matrix
+   3.4 Traceability matrix
 
-   3.6 Test case results
+   3.5 Test case results
 
-   3.7 Bugs report
+   3.6 Bugs report
 
-   3.8 Test completion report
+   3.7 Test completion report
+
+   3.8 Schedule
    
 
 ## 1. Introdution
@@ -141,10 +141,7 @@ Automation testing is beyond scope.
    * Reprioritize the test case and conditions.
 
 ## 3.Test deliveries
-### 3.1. Test plan
-[BuyMore](https://github.com/CornelMarcu/Buymore.ro/blob/main/Test%20plan%20Buymore%201.pdf)
-
-### 3.2. Test conditions
+### 3.1. Test conditions
 The test conditions will be created based on the business requirements validated in the test analysis phase and will represent the features to be tested and transformed into test cases.
 [Epic file](https://github.com/CornelMarcu/Test/blob/main/Epic.png)
 
@@ -159,26 +156,26 @@ The test conditions will be created based on the business requirements validated
 [Tasks nr3 link](https://github.com/CornelMarcu/Test/blob/main/t3.png)
 
 
-### 3.3. Test cases
+### 3.2. Test cases
 [Test cases](https://github.com/CornelMarcu/Test/blob/main/3.3%20Test%20steps.pdf) 
 
-### 3.4. Daily/Weekly/Monthly test summary report
+### 3.3. Daily/Weekly/Monthly test summary report
 [Daily report](https://github.com/CornelMarcu/Test/blob/main/3.4%20Daily%20report.png)
 
-### 3.5. Traceability matrix
+### 3.4. Traceability matrix
 [Traceability Matrix](https://github.com/CornelMarcu/Buymore.ro/blob/main/TRACEABILITY%20MATRIX.png)
 
-### 3.6. Test case results
+### 3.5. Test case results
 [Test case results](https://github.com/CornelMarcu/Test/blob/main/3.6%20Test%20result.pdf)
 
-### 3.7. Bugs report
+### 3.6. Bugs report
 [Bugs report](https://github.com/CornelMarcu/Test/blob/main/3.7%20Bug%20report.pdf)
 
-### 3.8. Test completion report
+### 3.7. Test completion report
 [Completion report](https://github.com/CornelMarcu/Buymore.ro/blob/main/Test%20execution-final.png)
 
 
-### 3.9. Schedule
+### 3.8. Schedule
 We will have 10 days of testing;
 We have 20 test cases;
 In order to finish the test run, we would need to run around 2 test per day.
