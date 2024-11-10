@@ -67,13 +67,14 @@ All features, functionalities, and capabilities outlined in the BuyMore business
 The BuyMore application will be tested on latest versions of Google Chrome. 
 
 ### 1.3 Functionalities and tests out of scope
-Non-functional testing such as stress, performance, security and maintenance falls outside the scope of this project.
+   * Non-functional testing such as stress, performance, security and maintenance falls outside the scope of this project.
 
-No QA support for mobile applications developed. Only web applications will be tested.
+   * No QA support for mobile applications developed. Only web applications will be tested.
 
 Automation testing is beyond scope.
 
 ## 2. Test process
+
 ### 2.1. Test planning
 ###2.1.1. Roles and responsibilities
 | Name | Testing Scope|
@@ -82,9 +83,8 @@ Automation testing is beyond scope.
 
 ### 2.1.2. Entry criteria
 
-Roles and responsibilities for the project are allocated;
-
-Functional business specifications are defined;
+   * Roles and responsibilities for the project are allocated;
+   * Functional business specifications are defined;
 
 ### 2.1.3. Exit criteria
 
